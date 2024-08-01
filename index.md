@@ -12,3 +12,7 @@
 $date = get-date
 write-host "my date is $date"
 ```
+
+- [ ] Turn on GitHub pages
+- [ ] Outlike my portfolio
+- [ ] Introduce myself to the world
